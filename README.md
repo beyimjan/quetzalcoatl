@@ -6,7 +6,7 @@ It features a text user interface, customizable key bindings, and can be played 
 ![Gameplay](https://www.bimzhanov.kz/cgit/quetzalcoatl/gameplay.gif)
 
 ## Compilation dependencies
-To compile the program, you will need the fpc compiler and make.
+To compile the program, you will need the `fpc` compiler and `make`.
 
 ## How to Play
 ```sh
