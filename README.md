@@ -3,7 +3,7 @@ Quetzalcoatl is a variant of the classic snake game, written in Free Pascal and 
 
 It features a text user interface, customizable key bindings, and can be played in the terminal.
 
-![Gameplay](https://www.bimzhanov.kz/cgit/quetzalcoatl/gameplay.gif)
+![Gameplay](images/gameplay.gif)
 
 ## Compilation dependencies
 To compile the program, you will need the `fpc` compiler and `make`.
