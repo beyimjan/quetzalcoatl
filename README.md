@@ -5,10 +5,11 @@ It features a text user interface, customizable key bindings, and can be played 
 
 ![Gameplay](images/gameplay.gif)
 
-## Compilation dependencies
-To compile the program, you will need the `fpc` compiler and `make`.
+## Installation
+Binary downloads of the Quetzalcoatl game can be found on [the Releases page](https://github.com/bimzhanovt/quetzalcoatl/releases).
 
-## How to Play
+To compile the program from source, you will need to install the `fpc` compiler and `make`. Then, give the following commands:
+
 ```sh
 $ cd src/
 $ make
